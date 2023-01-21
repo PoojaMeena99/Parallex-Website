@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>GIRLS EDUCATION</title>
+</head>
+  <style type="text/css">
+   .first1{
+       width: 100%;
+       height: 1000px;
+       background-image:url("child1.jpg");
+       background-size:100%;
+       background-attachment:fixed;
+       text-align:right;
+       color: black;
+   }
+   .first1 h1{
+      position: relative;
+      left: 100px;
+      top:100px;
+      width: 250px;
+      height: 80px;
+      padding:10px;
+      color:yellow;
+      text-align:start;
+      font-size:70px;
+
+   }
+   
+   .first2{ 
+      width:100%;
+      height:1000px;
+      background-size:100%;
+      background-image:url("child3.jpg");
+      background-attachment: fixed;
+   }
+   .first2 h2{
+       position: relative;
+       left: 10px;
+       top:100px;
+       width:250px;
+       height: 80px;
+       padding: 20px;
+       color: black;
+       text-align:start;
+       font-style: monospace;
+       font-size: 50px;
+    }
+    .first3 { 
+      width:100%;
+      height:1000px;
+      background-size:100%;
+      background-image:url("child5.jpg");
+      background-attachment: fixed;
+   }
+    .first3 h3{
+        position: relative;
+        left: 100px;
+        top: 100px;
+        width: 500px;
+        height: 4000px;
+        padding: 10px;
+        color: black;
+        text-align: start;
+        font-style: monospace;
+        font-size: 100px;
+    </style>
+<body>
+
+        <div class="first1">
+            <h1>GIRLS EDUCATION IS MOST IMPORTANT</h1>
+            <h2>pooja meena</h2>
+        </div>
+        <div class="para">
+            <p>
+                <b>education is very necessary for every child whether boy or girls .it helps a person study new  things with skill and learn about the facts of te worls .education plays an important role in the protection of women's rights.</b>
+
+            </p>
+        </div>
+        <div class="first2">
+            <h2>
+                EDUCATED THE GIRLS FOR A BETTER TOMMORO
+            </h2>
+        </div>
+        </div>
+        <div class="first3">
+            <h6>
+                Educate girls develop india !
+            </h6>
+        </div>
+        <div class="para">
+            <p>
+                <b>the rise of girls education was mainly done by king ram mohan roy and ishwar chandra vidhyasagar during british rule in india .he paid attention to the education of woman.some leaders of the sceduled some leaders of the scheduled caste sommunity like jyotiba phule and babasahab ambedkar had initiated many initialives to provide education to the woman of india</b>
+            </p>
+        </div>
+</body>
+</html>
